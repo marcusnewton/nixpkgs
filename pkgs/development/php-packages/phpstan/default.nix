@@ -6,7 +6,7 @@
 
 php.buildComposerProject (finalAttrs: {
   pname = "phpstan";
-  version = "1.11.1";
+  version = "2.0.1";
 
   src = fetchFromGitHub {
     owner = "phpstan";
